@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp13
 {
-	class Result
+	class Class1
 	{
 	}
 }
